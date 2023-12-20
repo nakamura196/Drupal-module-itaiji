@@ -1,0 +1,8 @@
+# itaiji.routing.yml
+itaiji.settings:
+  path: '/admin/config/search/itaiji'
+  defaults:
+    _form: '\Drupal\itaiji\Form\SettingsForm'
+    _title: 'Itaiji Settings'
+  requirements:
+    _permission: 'administer site configuration'

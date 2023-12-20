@@ -1,0 +1,14 @@
+msgid 'Enter the conversion rules, one per line, in the format "original1, original2 => converted". For example, "學 => 学".'
+msgstr "変換ルールを1行に1つずつ入力してください。フォーマットは「元の文字列1, 元の文字列2 => 変換後の文字列」です。例:「學 => 学」。"
+
+msgid 'Conversion Rules'
+msgstr "変換ルール"
+
+msgid "Configure Itaiji"
+msgstr "異体字の設定"
+
+msgid "Itaiji"
+msgstr "異体字"
+
+msgid 'Provides character conversion functionality.'
+msgstr "文字変換機能を提供します。"

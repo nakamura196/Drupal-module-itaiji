@@ -1,0 +1,6 @@
+itaiji.admin:
+  title: 'Itaiji'
+  route_name: itaiji.settings
+  description: 'Configure Itaiji'
+  parent: system.admin_config_search
+  weight: 100

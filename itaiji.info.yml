@@ -1,0 +1,7 @@
+name: Itaiji
+description: Provides character conversion functionality.
+package: Custom
+type: module
+core_version_requirement: ^10
+dependencies:
+  - search_api:search_api
